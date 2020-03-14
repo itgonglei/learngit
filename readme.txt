@@ -6,4 +6,4 @@ Git is a distributed version control system.
 safzai
 第4次修改了 git 多加了个 text 文件
 Creating a new branch is quick & simple.
-Creating a new bdddssh is sddfadfu  ddf:ick@@&fsffdimple.
+Creating a new bd44332sh is sddfadfu  ddf:ick@@&fsffdimple.
