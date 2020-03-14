@@ -5,5 +5,3 @@ Git is a distributed version control system.
 第三次修改了 代码 提交看看
 safzai
 第4次修改了 git 多加了个 text 文件
-Creating a new branch is quick & simple.
-Creating a new branch is quick & simple.
