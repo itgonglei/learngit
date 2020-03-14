@@ -1,4 +1,4 @@
-Git is a version control system.
+Git is a version control systeGit is free
 Git is free software.
 修改了洗文件你看到了吗我
 Git is a distributed version control system.
@@ -8,3 +8,4 @@ safzai
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 修改一次
+bug分支
